@@ -56,3 +56,14 @@ Understanding how a C program runs under the hood can be difficult when looking 
 * **Hosting & Deployment:** Netlify
 
 ---
+
+## 👤 Author
+
+* **Parv Agarwal**
+  * GitHub: [@parvag17](https://github.com/parvag17)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
