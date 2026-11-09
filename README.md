@@ -6,7 +6,7 @@
 
 A web-based tool designed to demystify C programming logic, control flow jumps, and variable state transitions in real time.
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Netlify-00ad9f?style=for-the-badge&logo=netlify)](https://tubular-pavlova-86be2c.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20on%20Netlify-00ad9f?style=for-the-badge&logo=netlify)](https://eloquent-sfogliatella-5bde5f.netlify.app)
 
 <br/>
 
@@ -18,7 +18,7 @@ A web-based tool designed to demystify C programming logic, control flow jumps, 
 
 Access the running deployment directly without any local installation:
 
-> **Production URL:** [https://tubular-pavlova-86be2c.netlify.app](https://tubular-pavlova-86be2c.netlify.app)
+> **Production URL:** [https://tubular-pavlova-86be2c.netlify.app](https://eloquent-sfogliatella-5bde5f.netlify.app)
 
 ---
 
